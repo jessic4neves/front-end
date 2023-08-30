@@ -1,2 +1,2 @@
-# Disciplinafront-end2
+Front-end2
 Exercícios da disciplina Front-end2
