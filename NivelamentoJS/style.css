@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(243, 144, 198);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    font-size: 22px;
+    text-align: center; 
+}
+
+#sexo{
+    border-radius: 100px;
+}
+#altura{
+    border-radius: 100px;
+}
+
+#proximoButton{
+    border-radius: 100px;
+}
+
+.resul{
+    top: 250px;
+    position: absolute;
+    right:440px;
+}
